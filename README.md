@@ -6,11 +6,11 @@
 
 **JavaScript · TypeScript · React · Node.js · Go**
 
-![Email](https://img.shields.io/badge/Email-e.acosta1695%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_Acosta-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/emanuel-acosta-dab4b7211)
+[![GitHub](https://img.shields.io/badge/GitHub-EmanuelAcosta1695-181717?style=flat&logo=github)](https://github.com/EmanuelAcosta1695)
+[![Email](https://img.shields.io/badge/Email-e.acosta1695@gmail.com-EA4335?style=flat&logo=gmail)](mailto:e.acosta1695@gmail.com)
 
-📍 Buenos Aires, Argentina (Remoto)
+📍 Buenos Aires, Argentina
 
 </div>
 
