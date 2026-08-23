@@ -121,7 +121,6 @@ I.S.F.D. y T. N°27 · Feb 2021 – Dic 2023
 
 <div align="center">
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EmanuelAcosta1695&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAcosta1695&layout=compact&theme=radical)
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=EmanuelAcosta1695&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAcosta1695&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/> </div>
 
 </div>
