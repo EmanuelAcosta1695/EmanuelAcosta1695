@@ -125,9 +125,3 @@ I.S.F.D. y T. N°27 · Feb 2021 – Dic 2023
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAcosta1695&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="165"/>
 
 </div>
-
----
-
-## 🤝 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Emanuel_Acosta-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emanuel-acosta-dab4b7211)
