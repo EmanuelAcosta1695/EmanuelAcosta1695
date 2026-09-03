@@ -12,6 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-EmanuelAcosta1695-181717?style=flat&logo=github)](https://github.com/EmanuelAcosta1695)
 [![Email](https://img.shields.io/badge/Email-e.acosta1695@gmail.com-EA4335?style=flat&logo=gmail)](mailto:e.acosta1695@gmail.com)
 
+
+
 📍 Buenos Aires, Argentina
 
 </div>
@@ -23,6 +25,14 @@
 I'm a **Full Stack Developer with 3 years of experience** building web applications, focused on **JavaScript, Node.js, React, and Go**, and on designing and implementing **REST APIs**.
 
 I work in agile environments, collaborating with cross-functional teams and following best practices for version control and code review.
+
+---
+
+## 🏆 Codewars
+
+I enjoy solving coding challenges (katas) on **Codewars** as a way to keep my problem-solving skills sharp.
+
+[![Codewars](https://www.codewars.com/users/Krost16/badges/large)](https://www.codewars.com/users/Krost16)
 
 ---
 
@@ -115,5 +125,6 @@ I.S.F.D. y T. N°27 · Feb 2021 – Dec 2023
 - AWS
 - Kubernetes and container orchestration
 - AI tools applied to software development
+- GitHub Actions
 
 ---
