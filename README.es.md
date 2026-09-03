@@ -26,6 +26,14 @@ Trabajo en entornos ágiles, colaborando con equipos multidisciplinarios y aplic
 
 ---
 
+## 🏆 Codewars
+
+Me gusta resolver desafíos de programación (katas) en **Codewars** como una forma de mantener mis habilidades para resolver problemas en forma.
+
+[![Codewars](https://www.codewars.com/users/Krost16/badges/large)](https://www.codewars.com/users/Krost16)
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 **Lenguajes**
@@ -115,5 +123,6 @@ I.S.F.D. y T. N°27 · Feb 2021 – Dic 2023
 - AWS
 - Kubernetes y orquestación de contenedores
 - Herramientas de IA aplicadas al desarrollo de software
+- GitHub Actions
 
 ---
